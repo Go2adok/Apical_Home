@@ -65,6 +65,8 @@
 }
 ._流程形状 {
 }
+._线 {
+}
 .ellipse {
 }
 .image {
@@ -81,5 +83,16 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.shape {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
