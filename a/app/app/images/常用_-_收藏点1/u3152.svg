@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="132px" height="76px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip2304">
+      <path d="M 435.5 139.5  C 432.725 139.5  430.5 137.275  430.5 134.5  L 430.5 79.5  C 430.5 76.725  432.725 74.5  435.5 74.5  L 546.5 74.5  C 549.275 74.5  551.5 76.725  551.5 79.5  L 551.5 134.5  C 551.5 137.275  549.275 139.5  546.5 139.5  L 435.5 139.5  " fill-rule="evenodd" />
+    </mask>
+    <filter x="425px" y="69px" width="132px" height="76px" filterUnits="userSpaceOnUse" id="filter2305">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.333333333333333  0 0 0 0 0.333333333333333  0 0 0 0 0.333333333333333  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget2306">
+      <path d="M 430 74  L 552 74  L 552 140  L 430 140  L 430 74  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2304)" />
+      <path d="M 435 79  L 547 79  L 547 135  L 435 135  L 435 79  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip2304)" />
+      <path d="M 498.39 93.8  C 495.618 93.8  493.44 91.622  493.44 88.85  C 493.44 86.078  495.618 83.9  498.39 83.9  C 501.162 83.9  503.34 86.078  503.34 88.85  C 503.34 91.622  501.162 93.8  498.39 93.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip2304)" />
+      <path d="M 437 134  L 437 104.85  L 464.25 91.6  L 502.4 116.796721311475  L 524.2 99.55  L 546 116.796721311475  L 546 134  L 437 134  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip2304)" />
+      <path d="M 435 139.5  C 432.5025 139.5  430.5 137.4975  430.5 135  L 430.5 79  C 430.5 76.5025  432.5025 74.5  435 74.5  L 547 74.5  C 549.4975 74.5  551.5 76.5025  551.5 79  L 551.5 135  C 551.5 137.4975  549.4975 139.5  547 139.5  L 435 139.5  Z " stroke-width="1" stroke="#aaaaaa" fill="none" mask="url(#clip2304)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -425 -69 )">
+    <use xlink:href="#widget2306" filter="url(#filter2305)" />
+    <use xlink:href="#widget2306" />
+  </g>
+</svg>

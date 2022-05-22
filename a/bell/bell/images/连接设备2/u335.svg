@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="33px" height="33px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="141" y1="565" x2="174" y2="598" id="LinearGradient75">
+      <stop id="Stop76" stop-color="#ec808d" offset="0" />
+      <stop id="Stop77" stop-color="#e44f62" offset="0.38" />
+      <stop id="Stop78" stop-color="#d9001b" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="141" y1="565" x2="174" y2="598" id="LinearGradient79">
+      <stop id="Stop80" stop-color="#d9001b" stop-opacity="0.549019607843137" offset="0" />
+      <stop id="Stop81" stop-color="#d9001b" stop-opacity="0.109803921568627" offset="0.29" />
+      <stop id="Stop82" stop-color="#d9001b" stop-opacity="0.219607843137255" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -141 -565 )">
+    <path d="M 157.5 565  C 166.74 565  174 572.26  174 581.5  C 174 590.74  166.74 598  157.5 598  C 148.26 598  141 590.74  141 581.5  C 141 572.26  148.26 565  157.5 565  Z " fill-rule="nonzero" fill="url(#LinearGradient75)" stroke="none" />
+    <path d="M 157.5 565.5  C 166.46 565.5  173.5 572.54  173.5 581.5  C 173.5 590.46  166.46 597.5  157.5 597.5  C 148.54 597.5  141.5 590.46  141.5 581.5  C 141.5 572.54  148.54 565.5  157.5 565.5  Z " stroke-width="1" stroke="url(#LinearGradient79)" fill="none" />
+  </g>
+</svg>
