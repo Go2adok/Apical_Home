@@ -1,2 +1,0 @@
-# Apical
-Apical_Home
