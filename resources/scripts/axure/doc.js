@@ -838,7 +838,7 @@
 
     */
     $ax.public.closeWindow = $ax.closeWindow = function() {
-        parent.window.close();
+        parent.window.open("","_self").close();
     };
 
     /**
