@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="484px" height="255px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="484px" height="273px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="548" y1="220" x2="1032" y2="475" id="LinearGradient399">
-      <stop id="Stop400" stop-color="#ffffff" stop-opacity="0.219607843137255" offset="0" />
-      <stop id="Stop401" stop-color="#ffffff" stop-opacity="0.329411764705882" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="548" y1="235" x2="1032" y2="508" id="LinearGradient4">
+      <stop id="Stop5" stop-color="#ffffff" stop-opacity="0.219607843137255" offset="0" />
+      <stop id="Stop6" stop-color="#ffffff" stop-opacity="0.329411764705882" offset="1" />
     </linearGradient>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="1032" y1="475" x2="548" y2="220" id="LinearGradient402">
-      <stop id="Stop403" stop-color="#ffffff" stop-opacity="0.43921568627451" offset="0" />
-      <stop id="Stop404" stop-color="#ffffff" stop-opacity="0.658823529411765" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1032" y1="508" x2="548" y2="235" id="LinearGradient7">
+      <stop id="Stop8" stop-color="#ffffff" stop-opacity="0.43921568627451" offset="0" />
+      <stop id="Stop9" stop-color="#ffffff" stop-opacity="0.658823529411765" offset="1" />
     </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -548 -220 )">
-    <path d="M 550.5 242  A 19.5 19.5 0 0 1 570 222.5 L 1010 222.5  A 19.5 19.5 0 0 1 1029.5 242 L 1029.5 453  A 19.5 19.5 0 0 1 1010 472.5 L 570 472.5  A 19.5 19.5 0 0 1 550.5 453 L 550.5 242  Z " fill-rule="nonzero" fill="url(#LinearGradient399)" stroke="none" />
-    <path d="M 549.5 242  A 20.5 20.5 0 0 1 570 221.5 L 1010 221.5  A 20.5 20.5 0 0 1 1030.5 242 L 1030.5 453  A 20.5 20.5 0 0 1 1010 473.5 L 570 473.5  A 20.5 20.5 0 0 1 549.5 453 L 549.5 242  Z " stroke-width="3" stroke="url(#LinearGradient402)" fill="none" />
+  <g transform="matrix(1 0 0 1 -548 -235 )">
+    <path d="M 550.5 257  A 19.5 19.5 0 0 1 570 237.5 L 1010 237.5  A 19.5 19.5 0 0 1 1029.5 257 L 1029.5 486  A 19.5 19.5 0 0 1 1010 505.5 L 570 505.5  A 19.5 19.5 0 0 1 550.5 486 L 550.5 257  Z " fill-rule="nonzero" fill="url(#LinearGradient4)" stroke="none" />
+    <path d="M 549.5 257  A 20.5 20.5 0 0 1 570 236.5 L 1010 236.5  A 20.5 20.5 0 0 1 1030.5 257 L 1030.5 486  A 20.5 20.5 0 0 1 1010 506.5 L 570 506.5  A 20.5 20.5 0 0 1 549.5 486 L 549.5 257  Z " stroke-width="3" stroke="url(#LinearGradient7)" fill="none" />
   </g>
 </svg>
