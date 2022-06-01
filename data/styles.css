@@ -74,6 +74,8 @@
 }
 ._线 {
 }
+._连接符 {
+}
 .ellipse {
 }
 .image {
@@ -89,6 +91,9 @@
 }
 .text_field {
   color:#000000;
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 .form_hint {
