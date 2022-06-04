@@ -8192,7 +8192,7 @@
   left:0px;
   top:0px;
   width:420px;
-  height:50px;
+  height:47px;
   background:inherit;
   background-color:rgba(129, 211, 248, 0.219607843137255);
   border:none;
@@ -8200,9 +8200,6 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
-  font-weight:700;
-  font-style:normal;
   font-size:28px;
   text-align:center;
 }
@@ -8212,18 +8209,15 @@
   left:696px;
   top:655px;
   width:420px;
-  height:50px;
+  height:47px;
   display:flex;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
-  font-weight:700;
-  font-style:normal;
   font-size:28px;
   text-align:center;
 }
 #u269 .text {
   position:absolute;
   align-self:center;
-  padding:0px 0px 0px 0px;
+  padding:0px 0px 2px 0px;
   box-sizing:border-box;
   width:100%;
 }
